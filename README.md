@@ -1,7 +1,7 @@
 ### Olá, eu sou Luís Henrique! Seja bem vindo(a) ao meu perfil! [😉](https://emojipedia.org/winking-face/)
 🌎 Canindé de São Francisco - Sergipe - Nordeste - Brasil 🇧🇷 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_luishenriquedev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luishenriquedev/)
 
 ![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHenrique97&show_icons=true&theme=merko)
 #### Tecnologias que utilizo [👨‍💻](https://emojipedia.org/man-technologist/)
